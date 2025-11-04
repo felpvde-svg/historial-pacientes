@@ -208,6 +208,11 @@ public class PacienteController {
 | **DELETE** | `/pacientes/eliminar/{documento}` | Elimina un paciente | Path: documento |
 
 
+##  Crear paciente en postman 
+![Crear paciente](imagenes/crear_paciente.png)
+
+##  Listar pacientes 
+![Listar pacientes](imagenes/listar_pacientes.png)
 
 ### Crear un nuevo paciente
 
@@ -342,4 +347,9 @@ Paciente eliminado correctamente
 
 ---
 
+##  Video demostrativo
+
+Puedes ver una demostración  del proyecto en el siguiente enlace:
+
+🔗 [Ver video en RecCloud](https://reccloud.com/es/u/ygu1thq)
 
